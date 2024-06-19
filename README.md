@@ -24,7 +24,7 @@ SHORTIFY offers a comprehensive suite of API endpoints for user management, URL 
 
 ### Deployment
 
-Access the live SHORTIFY website at: [Shortify (Server)]()
+Access the live SHORTIFY website at: [Shortify (Server)](https://urlshortener-backend-0leu.onrender.com/)
 
 ### Installation and Setup
 
